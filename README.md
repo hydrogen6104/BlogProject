@@ -1,2 +1,0 @@
-# BlogProject
-My First Blog
